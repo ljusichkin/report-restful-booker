@@ -1,0 +1,1 @@
+{'bookingid': 2652, 'booking': {'firstname': 'Lusine', 'lastname': 'Avetisyan', 'totalprice': 111, 'depositpaid': True, 'bookingdates': {'checkin': '2023-09-09', 'checkout': '2023-09-16'}, 'additionalneeds': 'All Inclusive'}}
